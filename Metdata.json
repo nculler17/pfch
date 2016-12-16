@@ -1,0 +1,2369 @@
+{
+	"request": {
+		"q": "James VanDerZee",
+		"showOnly": null,
+		"artist": null,
+		"material": null,
+		"era": null,
+		"geolocation": null,
+		"department": null,
+		"pkgIds": null,
+		"exhibitionId": null,
+		"feature": null,
+		"page": 1,
+		"pageId": "00000000-0000-0000-0000-000000000000",
+		"perPage": 20,
+		"offset": 0,
+		"sortOrder": "asc",
+		"sortBy": "Relevance",
+		"queryParameters": null
+	},
+	"results": [{
+		"title": "Yellow Taxi",
+		"description": "James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York)",
+		"teaserText": "<p>James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York) </p><p>Date: ca. 1932<br/>Accession Number: 1970.539.5</p>",
+		"url": "/art/collection/search/259656?sortBy=Relevance&amp;ft=James+VanDerZee&amp;offset=0&amp;rpp=20&amp;pos=1",
+		"image": "http://images.metmuseum.org/CRDImages/ph/mobile-large/DP285636.jpg",
+		"regularImage": "ph/web-additional/DP285636.jpg",
+		"largeImage": "ph/web-large/DP285636.jpg",
+		"date": "ca. 1932",
+		"medium": "Gelatin silver print",
+		"accessionNumber": "1970.539.5",
+		"galleryInformation": "Not on view"
+	}, {
+		"title": "Dinner Party with Boxer Harry Wills",
+		"description": "James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York)",
+		"teaserText": "<p>James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York) </p><p>Date: 1926<br/>Accession Number: 1970.539.50</p>",
+		"url": "/art/collection/search/259657?sortBy=Relevance&amp;ft=James+VanDerZee&amp;offset=0&amp;rpp=20&amp;pos=2",
+		"image": "http://images.metmuseum.org/CRDImages/ph/mobile-large/DP213135.jpg",
+		"regularImage": "ph/web-additional/DP213135.jpg",
+		"largeImage": "ph/web-large/DP213135.jpg",
+		"date": "1926",
+		"medium": "Gelatin silver print",
+		"accessionNumber": "1970.539.50",
+		"galleryInformation": "Not on view"
+	}, {
+		"title": "Manhattan Temple - B. C. Lunch",
+		"description": "James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York)",
+		"teaserText": "<p>James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York) </p><p>Date: 1936<br/>Accession Number: 1970.539.53</p>",
+		"url": "/art/collection/search/259660?sortBy=Relevance&amp;ft=James+VanDerZee&amp;offset=0&amp;rpp=20&amp;pos=3",
+		"image": "http://images.metmuseum.org/CRDImages/ph/mobile-large/DP268763.jpg",
+		"regularImage": "ph/web-additional/DP268763.jpg",
+		"largeImage": "ph/web-large/DP268763.jpg",
+		"date": "1936",
+		"medium": "Gelatin silver print",
+		"accessionNumber": "1970.539.53",
+		"galleryInformation": "Not on view"
+	}, {
+		"title": "[Women Taking Coffee in the Office of C. J. Walker Manufacturing Company]",
+		"description": "James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York)",
+		"teaserText": "<p>James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York) </p><p>Date: 1929<br/>Accession Number: 1970.539.51</p>",
+		"url": "/art/collection/search/259658?sortBy=Relevance&amp;ft=James+VanDerZee&amp;offset=0&amp;rpp=20&amp;pos=4",
+		"image": "http://images.metmuseum.org/CRDImages/ph/mobile-large/DP213136.jpg",
+		"regularImage": "ph/web-additional/DP213136.jpg",
+		"largeImage": "ph/web-large/DP213136.jpg",
+		"date": "1929",
+		"medium": "Gelatin silver print",
+		"accessionNumber": "1970.539.51",
+		"galleryInformation": "Not on view"
+	}, {
+		"title": "[Nude on Oriental Carpet in Front of Painted Backdrop]",
+		"description": "James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York)",
+		"teaserText": "<p>James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York) </p><p>Date: 1923<br/>Accession Number: 1970.539.27</p>",
+		"url": "/art/collection/search/259631?sortBy=Relevance&amp;ft=James+VanDerZee&amp;offset=0&amp;rpp=20&amp;pos=5",
+		"image": "http://images.metmuseum.org/CRDImages/ph/mobile-large/DP163255.jpg",
+		"regularImage": "ph/web-additional/DP163255.jpg",
+		"largeImage": "ph/web-large/DP163255.jpg",
+		"date": "1923",
+		"medium": "Gelatin silver print",
+		"accessionNumber": "1970.539.27",
+		"galleryInformation": "Not on view"
+	}, {
+		"title": "[Chicago Defender News Truck with Three Men Holding Papers]",
+		"description": "James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York)",
+		"teaserText": "<p>James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York) </p><p>Date: 1928<br/>Accession Number: 1970.539.54</p>",
+		"url": "/art/collection/search/259661?sortBy=Relevance&amp;ft=James+VanDerZee&amp;offset=0&amp;rpp=20&amp;pos=6",
+		"image": "http://images.metmuseum.org/CRDImages/ph/mobile-large/DP163256.jpg",
+		"regularImage": "ph/web-additional/DP163256.jpg",
+		"largeImage": "ph/web-large/DP163256.jpg",
+		"date": "1928",
+		"medium": "Gelatin silver print",
+		"accessionNumber": "1970.539.54",
+		"galleryInformation": "Not on view"
+	}, {
+		"title": "Reception in the Office of C. J. Walker Company",
+		"description": "James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York)",
+		"teaserText": "<p>James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York) </p><p>Date: 1929<br/>Accession Number: 1970.539.10</p>",
+		"url": "/art/collection/search/259613?sortBy=Relevance&amp;ft=James+VanDerZee&amp;offset=0&amp;rpp=20&amp;pos=7",
+		"image": "http://images.metmuseum.org/CRDImages/ph/mobile-large/DT11277.jpg",
+		"regularImage": "ph/web-additional/DT11277.jpg",
+		"largeImage": "ph/web-large/DT11277.jpg",
+		"date": "1929",
+		"medium": "Gelatin silver print",
+		"accessionNumber": "1970.539.10",
+		"galleryInformation": "Not on view"
+	}, {
+		"title": "Identical Twins",
+		"description": "James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York)",
+		"teaserText": "<p>James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York) </p><p>Date: 1924<br/>Accession Number: 1970.539.2</p>",
+		"url": "/art/collection/search/259623?sortBy=Relevance&amp;ft=James+VanDerZee&amp;offset=0&amp;rpp=20&amp;pos=8",
+		"image": "http://images.metmuseum.org/CRDImages/ph/mobile-large/DP163254.jpg",
+		"regularImage": "ph/web-additional/DP163254.jpg",
+		"largeImage": "ph/web-large/DP163254.jpg",
+		"date": "1924",
+		"medium": "Gelatin silver print",
+		"accessionNumber": "1970.539.2",
+		"galleryInformation": "Not on view"
+	}, {
+		"title": "[Basketball Team Wearing Monogrammed Sweaters]",
+		"description": "James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York)",
+		"teaserText": "<p>James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York) </p><p>Date: 1922–1923<br/>Accession Number: 1970.539.57</p>",
+		"url": "/art/collection/search/259664?sortBy=Relevance&amp;ft=James+VanDerZee&amp;offset=0&amp;rpp=20&amp;pos=9",
+		"image": "http://images.metmuseum.org/CRDImages/ph/mobile-large/DP303142.jpg",
+		"regularImage": "ph/web-additional/DP303142.jpg",
+		"largeImage": "ph/web-large/DP303142.jpg",
+		"date": "1922–1923",
+		"medium": "Gelatin silver print",
+		"accessionNumber": "1970.539.57",
+		"galleryInformation": "Not on view"
+	}, {
+		"title": "[Flapper in Beaded Headdress]",
+		"description": "James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York)",
+		"teaserText": "<p>James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York) </p><p>Date: 1925<br/>Accession Number: 1971.533.3</p>",
+		"url": "/art/collection/search/259846?sortBy=Relevance&amp;ft=James+VanDerZee&amp;offset=0&amp;rpp=20&amp;pos=10",
+		"image": "http://images.metmuseum.org/CRDImages/ph/mobile-large/DP-510-007.jpg",
+		"regularImage": "ph/web-additional/DP-510-007.jpg",
+		"largeImage": "ph/web-large/DP-510-007.jpg",
+		"date": "1925",
+		"medium": "Gelatin silver print, mirror",
+		"accessionNumber": "1971.533.3",
+		"galleryInformation": "Not on view"
+	}, {
+		"title": "[Man in Tuxedo]",
+		"description": "James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York)",
+		"teaserText": "<p>James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York) </p><p>Date: 1920s<br/>Accession Number: 1971.533.1</p>",
+		"url": "/art/collection/search/259844?sortBy=Relevance&amp;ft=James+VanDerZee&amp;offset=0&amp;rpp=20&amp;pos=11",
+		"image": "http://images.metmuseum.org/CRDImages/ph/mobile-large/DP-510-002.jpg",
+		"regularImage": "ph/web-additional/DP-510-002.jpg",
+		"largeImage": "ph/web-large/DP-510-002.jpg",
+		"date": "1920s",
+		"medium": "Gelatin silver print, mirror",
+		"accessionNumber": "1971.533.1",
+		"galleryInformation": "Not on view"
+	}, {
+		"title": "[Woman Holding Telephone]",
+		"description": "James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York)",
+		"teaserText": "<p>James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York) </p><p>Date: 1920s<br/>Accession Number: 1971.533.4</p>",
+		"url": "/art/collection/search/259847?sortBy=Relevance&amp;ft=James+VanDerZee&amp;offset=0&amp;rpp=20&amp;pos=12",
+		"image": "http://images.metmuseum.org/CRDImages/ph/mobile-large/DP-510-008.jpg",
+		"regularImage": "ph/web-additional/DP-510-008.jpg",
+		"largeImage": "ph/web-large/DP-510-008.jpg",
+		"date": "1920s",
+		"medium": "Gelatin silver print, mirror",
+		"accessionNumber": "1971.533.4",
+		"galleryInformation": "Not on view"
+	}, {
+		"title": "[Flapper with Fiddle]",
+		"description": "James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York)",
+		"teaserText": "<p>James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York) </p><p>Date: 1920s<br/>Accession Number: 1971.533.2</p>",
+		"url": "/art/collection/search/259845?sortBy=Relevance&amp;ft=James+VanDerZee&amp;offset=0&amp;rpp=20&amp;pos=13",
+		"image": "/content/img/placeholders/NoImageAvailableIcon.png",
+		"regularImage": "/content/img/placeholders/NoImageAvailableIcon.png",
+		"largeImage": "/content/img/placeholders/noimage534x534.png",
+		"date": "1920s",
+		"medium": "Gelatin silver print, mirror",
+		"accessionNumber": "1971.533.2",
+		"galleryInformation": "Not on view"
+	}, {
+		"title": "[Nude Draped with Cloth Surrounded by Flowers]",
+		"description": "James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York)",
+		"teaserText": "<p>James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York) </p><p>Date: 1920s–40s<br/>Accession Number: 1970.539.30</p>",
+		"url": "/art/collection/search/259635?sortBy=Relevance&amp;ft=James+VanDerZee&amp;offset=0&amp;rpp=20&amp;pos=14",
+		"image": "http://images.metmuseum.org/CRDImages/ph/mobile-large/DP213134.jpg",
+		"regularImage": "ph/web-additional/DP213134.jpg",
+		"largeImage": "ph/web-large/DP213134.jpg",
+		"date": "1920s–40s",
+		"medium": "Gelatin silver print",
+		"accessionNumber": "1970.539.30",
+		"galleryInformation": "Not on view"
+	}, {
+		"title": "[Mr. &amp; Mrs. James VanDerZee in their Dining Room]",
+		"description": "James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York)",
+		"teaserText": "<p>James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York) </p><p>Date: 1930<br/>Accession Number: 1970.539.14</p>",
+		"url": "/art/collection/search/259617?sortBy=Relevance&amp;ft=James+VanDerZee&amp;offset=0&amp;rpp=20&amp;pos=15",
+		"image": "/content/img/placeholders/NoImageAvailableIcon.png",
+		"regularImage": "/content/img/placeholders/NoImageAvailableIcon.png",
+		"largeImage": "/content/img/placeholders/noimage534x534.png",
+		"date": "1930",
+		"medium": "Gelatin silver print",
+		"accessionNumber": "1970.539.14",
+		"galleryInformation": "Not on view"
+	}, {
+		"title": "Celebrity",
+		"description": "James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York)",
+		"teaserText": "<p>James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York) </p><p>Date: 1933<br/>Accession Number: 1970.539.3</p>",
+		"url": "/art/collection/search/259634?sortBy=Relevance&amp;ft=James+VanDerZee&amp;offset=0&amp;rpp=20&amp;pos=16",
+		"image": "/content/img/placeholders/NoImageAvailableIcon.png",
+		"regularImage": "/content/img/placeholders/NoImageAvailableIcon.png",
+		"largeImage": "/content/img/placeholders/noimage534x534.png",
+		"date": "1933",
+		"medium": "Gelatin silver print",
+		"accessionNumber": "1970.539.3",
+		"galleryInformation": "Not on view"
+	}, {
+		"title": "Bride",
+		"description": "James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York)",
+		"teaserText": "<p>James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York) </p><p>Date: 1937<br/>Accession Number: 1970.539.4</p>",
+		"url": "/art/collection/search/259645?sortBy=Relevance&amp;ft=James+VanDerZee&amp;offset=0&amp;rpp=20&amp;pos=17",
+		"image": "/content/img/placeholders/NoImageAvailableIcon.png",
+		"regularImage": "/content/img/placeholders/NoImageAvailableIcon.png",
+		"largeImage": "/content/img/placeholders/noimage534x534.png",
+		"date": "1937",
+		"medium": "Gelatin silver print",
+		"accessionNumber": "1970.539.4",
+		"galleryInformation": "Not on view"
+	}, {
+		"title": "[Young Woman]",
+		"description": "James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York)",
+		"teaserText": "<p>James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York) </p><p>Date: 1936<br/>Accession Number: 1970.539.45</p>",
+		"url": "/art/collection/search/259651?sortBy=Relevance&amp;ft=James+VanDerZee&amp;offset=0&amp;rpp=20&amp;pos=18",
+		"image": "/content/img/placeholders/NoImageAvailableIcon.png",
+		"regularImage": "/content/img/placeholders/NoImageAvailableIcon.png",
+		"largeImage": "/content/img/placeholders/noimage534x534.png",
+		"date": "1936",
+		"medium": "Gelatin silver print",
+		"accessionNumber": "1970.539.45",
+		"galleryInformation": "Not on view"
+	}, {
+		"title": "Luncheon Party",
+		"description": "James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York)",
+		"teaserText": "<p>James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York) </p><p>Date: 1927<br/>Accession Number: 1970.539.11</p>",
+		"url": "/art/collection/search/259614?sortBy=Relevance&amp;ft=James+VanDerZee&amp;offset=0&amp;rpp=20&amp;pos=19",
+		"image": "/content/img/placeholders/NoImageAvailableIcon.png",
+		"regularImage": "/content/img/placeholders/NoImageAvailableIcon.png",
+		"largeImage": "/content/img/placeholders/noimage534x534.png",
+		"date": "1927",
+		"medium": "Gelatin silver print",
+		"accessionNumber": "1970.539.11",
+		"galleryInformation": "Not on view"
+	}, {
+		"title": "Campfire Girls",
+		"description": "James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York)",
+		"teaserText": "<p>James Van Der Zee (American, Lenox, Massachusetts 1886–1983 New York) </p><p>Date: 1925<br/>Accession Number: 1970.539.33</p>",
+		"url": "/art/collection/search/259638?sortBy=Relevance&amp;ft=James+VanDerZee&amp;offset=0&amp;rpp=20&amp;pos=20",
+		"image": "/content/img/placeholders/NoImageAvailableIcon.png",
+		"regularImage": "/content/img/placeholders/NoImageAvailableIcon.png",
+		"largeImage": "/content/img/placeholders/noimage534x534.png",
+		"date": "1925",
+		"medium": "Gelatin silver print",
+		"accessionNumber": "1970.539.33",
+		"galleryInformation": "Not on view"
+	}],
+	"facets": [{
+		"filterGroupId": null,
+		"filterGroupType": null,
+		"filterGroupLabel": null,
+		"filterGroupName": null,
+		"filterGroupItems": null,
+		"id": "artist",
+		"label": "Artist / Culture",
+		"name": null,
+		"values": [{
+			"id": "Adlard, Henry$Henry Adlard",
+			"label": "Henry Adlard",
+			"name": "Adlard, Henry",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Alfred the Great$Alfred the Great",
+			"label": "Alfred the Great",
+			"name": "Alfred the Great",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Allen, H. E. Lieutenant$Lieutenant H. E. Allen",
+			"label": "Lieutenant H. E. Allen",
+			"name": "Allen, H. E. Lieutenant",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Allen, James Baylis$James Baylis Allen",
+			"label": "James Baylis Allen",
+			"name": "Allen, James Baylis",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Allom, Thomas$Thomas Allom",
+			"label": "Thomas Allom",
+			"name": "Allom, Thomas",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Amalteo, Pomponio$Pomponio Amalteo",
+			"label": "Pomponio Amalteo",
+			"name": "Amalteo, Pomponio",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Anonymous, Italian, Roman-Bolognese, 17th century$Anonymous, Italian, Roman-Bolognese, 17th century",
+			"label": "Anonymous, Italian, Roman-Bolognese, 17th century",
+			"name": "Anonymous, Italian, Roman-Bolognese, 17th century",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Appleton, J.$J. Appleton",
+			"label": "J. Appleton",
+			"name": "Appleton, J.",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Arlaud, Jacques-Antoine$Jacques-Antoine Arlaud",
+			"label": "Jacques-Antoine Arlaud",
+			"name": "Arlaud, Jacques-Antoine",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Bachiacca (Francesco d'Ubertino Verdi)$Bachiacca (Francesco d'Ubertino Verdi)",
+			"label": "Bachiacca (Francesco d'Ubertino Verdi)",
+			"name": "Bachiacca (Francesco d'Ubertino Verdi)",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Bacon, Nathaniel Sir$Sir Nathaniel Bacon",
+			"label": "Sir Nathaniel Bacon",
+			"name": "Bacon, Nathaniel Sir",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Bakhuizen, Ludolf$Ludolf Bakhuizen",
+			"label": "Ludolf Bakhuizen",
+			"name": "Bakhuizen, Ludolf",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Baldung, Hans (called Hans Baldung Grien)$Hans Baldung (called Hans Baldung Grien)",
+			"label": "Hans Baldung (called Hans Baldung Grien)",
+			"name": "Baldung, Hans (called Hans Baldung Grien)",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Balen, Jan van$Jan van Balen",
+			"label": "Jan van Balen",
+			"name": "Balen, Jan van",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Bandinelli, Baccio$Baccio Bandinelli",
+			"label": "Baccio Bandinelli",
+			"name": "Bandinelli, Baccio",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Bartlett, William Henry$William Henry Bartlett",
+			"label": "William Henry Bartlett",
+			"name": "Bartlett, William Henry",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Bartolomeo, Fra (Bartolomeo di Paolo del Fattorino)$Fra Bartolomeo (Bartolomeo di Paolo del Fattorino)",
+			"label": "Fra Bartolomeo (Bartolomeo di Paolo del Fattorino)",
+			"name": "Bartolomeo, Fra (Bartolomeo di Paolo del Fattorino)",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Bastien-Lepage, Jules$Jules Bastien-Lepage",
+			"label": "Jules Bastien-Lepage",
+			"name": "Bastien-Lepage, Jules",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Beale, Charles$Charles Beale",
+			"label": "Charles Beale",
+			"name": "Beale, Charles",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Beale, Mary$Mary Beale",
+			"label": "Mary Beale",
+			"name": "Beale, Mary",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Bedoli, Girolamo Mazzola$Girolamo Mazzola Bedoli",
+			"label": "Girolamo Mazzola Bedoli",
+			"name": "Bedoli, Girolamo Mazzola",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Belcamp, Jan van$Jan van Belcamp",
+			"label": "Jan van Belcamp",
+			"name": "Belcamp, Jan van",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Bellegambe, Jean$Jean Bellegambe",
+			"label": "Jean Bellegambe",
+			"name": "Bellegambe, Jean",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Bentley, Charles$Charles Bentley",
+			"label": "Charles Bentley",
+			"name": "Bentley, Charles",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Bentley, Joseph Clayton$Joseph Clayton Bentley",
+			"label": "Joseph Clayton Bentley",
+			"name": "Bentley, Joseph Clayton",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Berchem, Nicolaes$Nicolaes Berchem",
+			"label": "Nicolaes Berchem",
+			"name": "Berchem, Nicolaes",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Berry, Robert G.$Robert G. Berry",
+			"label": "Robert G. Berry",
+			"name": "Berry, Robert G.",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Biagio d'Antonio$Biagio d'Antonio",
+			"label": "Biagio d'Antonio",
+			"name": "Biagio d'Antonio",
+			"count": 3,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Bisschop, Jan de$Jan de Bisschop",
+			"label": "Jan de Bisschop",
+			"name": "Bisschop, Jan de",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Black & Armstrong,  Asher$Black & Armstrong,  Asher",
+			"label": "Black & Armstrong,  Asher",
+			"name": "Black & Armstrong,  Asher",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Blake, Robert Admiral$Admiral Robert Blake",
+			"label": "Admiral Robert Blake",
+			"name": "Blake, Robert Admiral",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Bloemaert, Abraham$Abraham Bloemaert",
+			"label": "Abraham Bloemaert",
+			"name": "Bloemaert, Abraham",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Boit, Charles$Charles Boit",
+			"label": "Charles Boit",
+			"name": "Boit, Charles",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Bol, Hans$Hans Bol",
+			"label": "Hans Bol",
+			"name": "Bol, Hans",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Bonnard, Pierre$Pierre Bonnard",
+			"label": "Pierre Bonnard",
+			"name": "Bonnard, Pierre",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Borcht, Hendrik van der I$Hendrik van der Borcht I",
+			"label": "Hendrik van der Borcht I",
+			"name": "Borcht, Hendrik van der I",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Bosch, Hieronymus$Hieronymus Bosch",
+			"label": "Hieronymus Bosch",
+			"name": "Bosch, Hieronymus",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Both, Jan$Jan Both",
+			"label": "Jan Both",
+			"name": "Both, Jan",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Bourlier, François$François Bourlier",
+			"label": "François Bourlier",
+			"name": "Bourlier, François",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Bouts, Dieric$Dieric Bouts",
+			"label": "Dieric Bouts",
+			"name": "Bouts, Dieric",
+			"count": 3,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Boyle, Richard$Richard Boyle, 3rd Earl of Burlington",
+			"label": "Richard Boyle, 3rd Earl of Burlington",
+			"name": "Boyle, Richard",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Bramer, Leonaert$Leonaert Bramer",
+			"label": "Leonaert Bramer",
+			"name": "Bramer, Leonaert",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Bredael, Peeter van$Peeter van Bredael",
+			"label": "Peeter van Bredael",
+			"name": "Bredael, Peeter van",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Briggs, Henry Perronet$Henry Perronet Briggs",
+			"label": "Henry Perronet Briggs",
+			"name": "Briggs, Henry Perronet",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Bronchorst, Jan (Gerritsz.) van$Jan (Gerritsz.) van Bronchorst",
+			"label": "Jan (Gerritsz.) van Bronchorst",
+			"name": "Bronchorst, Jan (Gerritsz.) van",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Bronzino (Agnolo di Cosimo di Mariano)$Bronzino (Agnolo di Cosimo di Mariano)",
+			"label": "Bronzino (Agnolo di Cosimo di Mariano)",
+			"name": "Bronzino (Agnolo di Cosimo di Mariano)",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Bruegel, Pieter, the Elder$Pieter Bruegel the Elder",
+			"label": "Pieter Bruegel the Elder",
+			"name": "Bruegel, Pieter, the Elder",
+			"count": 3,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Brueghel, Abraham$Abraham Brueghel",
+			"label": "Abraham Brueghel",
+			"name": "Brueghel, Abraham",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Brueghel, Jan, the Elder$Jan Brueghel the Elder",
+			"label": "Jan Brueghel the Elder",
+			"name": "Brueghel, Jan, the Elder",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Brugghen, Hendrick ter$Hendrick ter Brugghen",
+			"label": "Hendrick ter Brugghen",
+			"name": "Brugghen, Hendrick ter",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Caccini Giovanni$Giovanni Caccini",
+			"label": "Giovanni Caccini",
+			"name": "Caccini Giovanni",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Carracci, Annibale$Annibale Carracci",
+			"label": "Annibale Carracci",
+			"name": "Carracci, Annibale",
+			"count": 3,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Cézanne, Paul$Paul Cézanne",
+			"label": "Paul Cézanne",
+			"name": "Cézanne, Paul",
+			"count": 3,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Cock, Hieronymus$Hieronymus Cock",
+			"label": "Hieronymus Cock",
+			"name": "Cock, Hieronymus",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Crivelli, Carlo$Carlo Crivelli",
+			"label": "Carlo Crivelli",
+			"name": "Crivelli, Carlo",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "David, Gerard$Gerard David",
+			"label": "Gerard David",
+			"name": "David, Gerard",
+			"count": 6,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Dobson, William$William Dobson",
+			"label": "William Dobson",
+			"name": "Dobson, William",
+			"count": 3,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Dyck, Anthony van$Anthony van Dyck",
+			"label": "Anthony van Dyck",
+			"name": "Dyck, Anthony van",
+			"count": 8,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Eyck, Jan van$Jan van Eyck",
+			"label": "Jan van Eyck",
+			"name": "Eyck, Jan van",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Gogh, Vincent van$Vincent van Gogh",
+			"label": "Vincent van Gogh",
+			"name": "Gogh, Vincent van",
+			"count": 5,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Gossart, Jan (called Mabuse)$Jan Gossart (called Mabuse)",
+			"label": "Jan Gossart (called Mabuse)",
+			"name": "Gossart, Jan (called Mabuse)",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Hals, Frans$Frans Hals",
+			"label": "Frans Hals",
+			"name": "Hals, Frans",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Henry III, King of England$Henry III, King of England",
+			"label": "Henry III, King of England",
+			"name": "Henry III, King of England",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Henry V, King of England$Henry V, King of England",
+			"label": "Henry V, King of England",
+			"name": "Henry V, King of England",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Henry VI, King of England$Henry VI, King of England",
+			"label": "Henry VI, King of England",
+			"name": "Henry VI, King of England",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Henry VII, King of England  Lord of Ireland$Henry VII, King of England  Lord of Ireland",
+			"label": "Henry VII, King of England  Lord of Ireland",
+			"name": "Henry VII, King of England  Lord of Ireland",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Heyden, Pieter van der$Pieter van der Heyden",
+			"label": "Pieter van der Heyden",
+			"name": "Heyden, Pieter van der",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Holbein, Hans, the Younger$Hans Holbein the Younger",
+			"label": "Hans Holbein the Younger",
+			"name": "Holbein, Hans, the Younger",
+			"count": 4,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Joos van Cleve$Joos van Cleve",
+			"label": "Joos van Cleve",
+			"name": "Joos van Cleve",
+			"count": 3,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Juan de Flandes$Juan de Flandes",
+			"label": "Juan de Flandes",
+			"name": "Juan de Flandes",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Kneller, Godfrey, Sir$Sir Godfrey Kneller",
+			"label": "Sir Godfrey Kneller",
+			"name": "Kneller, Godfrey, Sir",
+			"count": 3,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Le Pautre, Jean$Jean Le Pautre",
+			"label": "Jean Le Pautre",
+			"name": "Le Pautre, Jean",
+			"count": 7,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Lely, Peter, Sir (Pieter van der Faes)$Sir Peter Lely (Pieter van der Faes)",
+			"label": "Sir Peter Lely (Pieter van der Faes)",
+			"name": "Lely, Peter, Sir (Pieter van der Faes)",
+			"count": 4,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Lorenzo Monaco (Piero di Giovanni)$Lorenzo Monaco (Piero di Giovanni)",
+			"label": "Lorenzo Monaco (Piero di Giovanni)",
+			"name": "Lorenzo Monaco (Piero di Giovanni)",
+			"count": 3,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Mantegna, Andrea$Andrea Mantegna",
+			"label": "Andrea Mantegna",
+			"name": "Mantegna, Andrea",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Martini, Simone$Simone Martini",
+			"label": "Simone Martini",
+			"name": "Martini, Simone",
+			"count": 5,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Master of the Berswordt Altar$Master of the Berswordt Altar",
+			"label": "Master of the Berswordt Altar",
+			"name": "Master of the Berswordt Altar",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Memling, Hans$Hans Memling",
+			"label": "Hans Memling",
+			"name": "Memling, Hans",
+			"count": 6,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Metsys, Quentin$Quentin Metsys",
+			"label": "Quentin Metsys",
+			"name": "Metsys, Quentin",
+			"count": 3,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Monnoyer, Jean-Baptiste$Jean-Baptiste Monnoyer",
+			"label": "Jean-Baptiste Monnoyer",
+			"name": "Monnoyer, Jean-Baptiste",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Mor, Antonis$Antonis Mor",
+			"label": "Antonis Mor",
+			"name": "Mor, Antonis",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Netherlandish Painter$Netherlandish Painter",
+			"label": "Netherlandish Painter",
+			"name": "Netherlandish Painter",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Oliver, Isaac$Isaac Oliver",
+			"label": "Isaac Oliver",
+			"name": "Oliver, Isaac",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Poussin, Nicolas$Nicolas Poussin",
+			"label": "Nicolas Poussin",
+			"name": "Poussin, Nicolas",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Rembrandt$Rembrandt",
+			"label": "Rembrandt",
+			"name": "Rembrandt",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Rembrandt (Rembrandt van Rijn)$Rembrandt (Rembrandt van Rijn)",
+			"label": "Rembrandt (Rembrandt van Rijn)",
+			"name": "Rembrandt (Rembrandt van Rijn)",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Rogier van der Weyden$Rogier van der Weyden",
+			"label": "Rogier van der Weyden",
+			"name": "Rogier van der Weyden",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Rubens, Peter Paul$Peter Paul Rubens",
+			"label": "Peter Paul Rubens",
+			"name": "Rubens, Peter Paul",
+			"count": 9,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Sacchi, Andrea$Andrea Sacchi",
+			"label": "Andrea Sacchi",
+			"name": "Sacchi, Andrea",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Segna di Buonaventura$Segna di Buonaventura",
+			"label": "Segna di Buonaventura",
+			"name": "Segna di Buonaventura",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Sellaio, Jacopo del$Jacopo del Sellaio",
+			"label": "Jacopo del Sellaio",
+			"name": "Sellaio, Jacopo del",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Seurat, Georges$Georges Seurat",
+			"label": "Georges Seurat",
+			"name": "Seurat, Georges",
+			"count": 3,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Steenwijck, Hendrick van, II$Hendrick van Steenwijck II",
+			"label": "Hendrick van Steenwijck II",
+			"name": "Steenwijck, Hendrick van, II",
+			"count": 3,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Teniers, David, the Younger$David Teniers the Younger",
+			"label": "David Teniers the Younger",
+			"name": "Teniers, David, the Younger",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Tintoretto, Jacopo (Jacopo Robusti)$Jacopo Tintoretto (Jacopo Robusti)",
+			"label": "Jacopo Tintoretto (Jacopo Robusti)",
+			"name": "Tintoretto, Jacopo (Jacopo Robusti)",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Titian (Tiziano Vecellio)$Titian (Tiziano Vecellio)",
+			"label": "Titian (Tiziano Vecellio)",
+			"name": "Titian (Tiziano Vecellio)",
+			"count": 3,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "van der Bruggen, Jan$Jan van der Bruggen",
+			"label": "Jan van der Bruggen",
+			"name": "van der Bruggen, Jan",
+			"count": 7,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Van Der Zee, James$James Van Der Zee",
+			"label": "James Van Der Zee",
+			"name": "Van Der Zee, James",
+			"count": 70,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Velázquez (Diego Rodríguez de Silva y Velázquez)$Velázquez (Diego Rodríguez de Silva y Velázquez)",
+			"label": "Velázquez (Diego Rodríguez de Silva y Velázquez)",
+			"name": "Velázquez (Diego Rodríguez de Silva y Velázquez)",
+			"count": 3,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Vroom, Hendrick Cornelisz$Hendrick (Cornelisz) Vroom",
+			"label": "Hendrick (Cornelisz) Vroom",
+			"name": "Vroom, Hendrick Cornelisz",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}],
+		"facets": null
+	}, {
+		"filterGroupId": null,
+		"filterGroupType": null,
+		"filterGroupLabel": null,
+		"filterGroupName": null,
+		"filterGroupItems": null,
+		"id": "material",
+		"label": "Object Type / Material",
+		"name": null,
+		"values": [{
+			"id": "Adhesive tape",
+			"label": "Adhesive tape",
+			"name": "Adhesive tape",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Agate",
+			"label": "Agate",
+			"name": "Agate",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Altarpieces",
+			"label": "Altarpieces",
+			"name": "Altarpieces",
+			"count": 5,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Amphorae",
+			"label": "Amphorae",
+			"name": "Amphorae",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Beakers",
+			"label": "Beakers",
+			"name": "Beakers",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Beryl",
+			"label": "Beryl",
+			"name": "Beryl",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Books",
+			"label": "Books",
+			"name": "Books",
+			"count": 8,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Cabochons",
+			"label": "Cabochons",
+			"name": "Cabochons",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Cane",
+			"label": "Cane",
+			"name": "Cane",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Canvas",
+			"label": "Canvas",
+			"name": "Canvas",
+			"count": 61,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Case furniture",
+			"label": "Case furniture",
+			"name": "Case furniture",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Cases",
+			"label": "Cases",
+			"name": "Cases",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Cassoni",
+			"label": "Cassoni",
+			"name": "Cassoni",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Chairs",
+			"label": "Chairs",
+			"name": "Chairs",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Chalcedony",
+			"label": "Chalcedony",
+			"name": "Chalcedony",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Chalk",
+			"label": "Chalk",
+			"name": "Chalk",
+			"count": 7,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Chapels",
+			"label": "Chapels",
+			"name": "Chapels",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Chests",
+			"label": "Chests",
+			"name": "Chests",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Choes",
+			"label": "Choes",
+			"name": "Choes",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Clay",
+			"label": "Clay",
+			"name": "Clay",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Conté crayons",
+			"label": "Conté crayons",
+			"name": "Conté crayons",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Copper",
+			"label": "Copper",
+			"name": "Copper",
+			"count": 3,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Crayons",
+			"label": "Crayons",
+			"name": "Crayons",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Crystal",
+			"label": "Crystal",
+			"name": "Crystal",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Dials",
+			"label": "Dials",
+			"name": "Dials",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Diamond",
+			"label": "Diamond",
+			"name": "Diamond",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Drawings",
+			"label": "Drawings",
+			"name": "Drawings",
+			"count": 13,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Dressing cases",
+			"label": "Dressing cases",
+			"name": "Dressing cases",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Embossing",
+			"label": "Embossing",
+			"name": "Embossing",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Emerald",
+			"label": "Emerald",
+			"name": "Emerald",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Enamel",
+			"label": "Enamel",
+			"name": "Enamel",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Enamels",
+			"label": "Enamels",
+			"name": "Enamels",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Engraving",
+			"label": "Engraving",
+			"name": "Engraving",
+			"count": 7,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Engravings",
+			"label": "Engravings",
+			"name": "Engravings",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Etching",
+			"label": "Etching",
+			"name": "Etching",
+			"count": 9,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Faience",
+			"label": "Faience",
+			"name": "Faience",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Felt",
+			"label": "Felt",
+			"name": "Felt",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Fragments",
+			"label": "Fragments",
+			"name": "Fragments",
+			"count": 4,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Frames",
+			"label": "Frames",
+			"name": "Frames",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Furniture",
+			"label": "Furniture",
+			"name": "Furniture",
+			"count": 4,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Gelatin silver prints",
+			"label": "Gelatin silver prints",
+			"name": "Gelatin silver prints",
+			"count": 71,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Gems",
+			"label": "Gems",
+			"name": "Gems",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Gilt",
+			"label": "Gilt",
+			"name": "Gilt",
+			"count": 12,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Glass",
+			"label": "Glass",
+			"name": "Glass",
+			"count": 3,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Glaze",
+			"label": "Glaze",
+			"name": "Glaze",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Gold",
+			"label": "Gold",
+			"name": "Gold",
+			"count": 39,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Gouache",
+			"label": "Gouache",
+			"name": "Gouache",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Grisaille",
+			"label": "Grisaille",
+			"name": "Grisaille",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Illuminations",
+			"label": "Illuminations",
+			"name": "Illuminations",
+			"count": 4,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Illustrations",
+			"label": "Illustrations",
+			"name": "Illustrations",
+			"count": 4,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Ink",
+			"label": "Ink",
+			"name": "Ink",
+			"count": 15,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Intaglio prints",
+			"label": "Intaglio prints",
+			"name": "Intaglio prints",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Iron alloy",
+			"label": "Iron alloy",
+			"name": "Iron alloy",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Iron and iron alloy",
+			"label": "Iron and iron alloy",
+			"name": "Iron and iron alloy",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Limestone",
+			"label": "Limestone",
+			"name": "Limestone",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Linden",
+			"label": "Linden",
+			"name": "Linden",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Lithographs",
+			"label": "Lithographs",
+			"name": "Lithographs",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Manuscripts",
+			"label": "Manuscripts",
+			"name": "Manuscripts",
+			"count": 4,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Marble",
+			"label": "Marble",
+			"name": "Marble",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Masking tape",
+			"label": "Masking tape",
+			"name": "Masking tape",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Masonite",
+			"label": "Masonite",
+			"name": "Masonite",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Medallions",
+			"label": "Medallions",
+			"name": "Medallions",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Medals",
+			"label": "Medals",
+			"name": "Medals",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Metal",
+			"label": "Metal",
+			"name": "Metal",
+			"count": 48,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Metalwork",
+			"label": "Metalwork",
+			"name": "Metalwork",
+			"count": 3,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Mirrors",
+			"label": "Mirrors",
+			"name": "Mirrors",
+			"count": 5,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Oak",
+			"label": "Oak",
+			"name": "Oak",
+			"count": 5,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Oil",
+			"label": "Oil",
+			"name": "Oil",
+			"count": 4,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Oil paint",
+			"label": "Oil paint",
+			"name": "Oil paint",
+			"count": 108,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Oil paintings",
+			"label": "Oil paintings",
+			"name": "Oil paintings",
+			"count": 7,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Painting",
+			"label": "Painting",
+			"name": "Painting",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Paintings",
+			"label": "Paintings",
+			"name": "Paintings",
+			"count": 155,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Panels",
+			"label": "Panels",
+			"name": "Panels",
+			"count": 11,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Paper",
+			"label": "Paper",
+			"name": "Paper",
+			"count": 8,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Parchment",
+			"label": "Parchment",
+			"name": "Parchment",
+			"count": 4,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Photographs",
+			"label": "Photographs",
+			"name": "Photographs",
+			"count": 71,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Pine",
+			"label": "Pine",
+			"name": "Pine",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Plywood",
+			"label": "Plywood",
+			"name": "Plywood",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Polyptychs",
+			"label": "Polyptychs",
+			"name": "Polyptychs",
+			"count": 6,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Predellas",
+			"label": "Predellas",
+			"name": "Predellas",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Prints",
+			"label": "Prints",
+			"name": "Prints",
+			"count": 14,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Sculpture",
+			"label": "Sculpture",
+			"name": "Sculpture",
+			"count": 6,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Seating furniture",
+			"label": "Seating furniture",
+			"name": "Seating furniture",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Silk",
+			"label": "Silk",
+			"name": "Silk",
+			"count": 3,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Silver",
+			"label": "Silver",
+			"name": "Silver",
+			"count": 12,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Softwood",
+			"label": "Softwood",
+			"name": "Softwood",
+			"count": 3,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Statues",
+			"label": "Statues",
+			"name": "Statues",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Tapestries",
+			"label": "Tapestries",
+			"name": "Tapestries",
+			"count": 6,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Tempera",
+			"label": "Tempera",
+			"name": "Tempera",
+			"count": 39,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Terracotta",
+			"label": "Terracotta",
+			"name": "Terracotta",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Textiles",
+			"label": "Textiles",
+			"name": "Textiles",
+			"count": 6,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Triptychs",
+			"label": "Triptychs",
+			"name": "Triptychs",
+			"count": 8,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Vases",
+			"label": "Vases",
+			"name": "Vases",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Vellum",
+			"label": "Vellum",
+			"name": "Vellum",
+			"count": 3,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Vessels",
+			"label": "Vessels",
+			"name": "Vessels",
+			"count": 4,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Walnut",
+			"label": "Walnut",
+			"name": "Walnut",
+			"count": 3,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Watercolors",
+			"label": "Watercolors",
+			"name": "Watercolors",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Wood",
+			"label": "Wood",
+			"name": "Wood",
+			"count": 12,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Woodwork",
+			"label": "Woodwork",
+			"name": "Woodwork",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Wool",
+			"label": "Wool",
+			"name": "Wool",
+			"count": 7,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}],
+		"facets": null
+	}, {
+		"filterGroupId": null,
+		"filterGroupType": null,
+		"filterGroupLabel": null,
+		"filterGroupName": null,
+		"filterGroupItems": null,
+		"id": "geolocation",
+		"label": "Geographic Location",
+		"name": null,
+		"values": [{
+			"id": "Anatolia",
+			"label": "Anatolia",
+			"name": "Anatolia",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Aquitaine",
+			"label": "Aquitaine",
+			"name": "Aquitaine",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Aragón",
+			"label": "Aragón",
+			"name": "Aragón",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Asia",
+			"label": "Asia",
+			"name": "Asia",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Avignon",
+			"label": "Avignon",
+			"name": "Avignon",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Baden-Württemberg",
+			"label": "Baden-Württemberg",
+			"name": "Baden-Württemberg",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Bavaria",
+			"label": "Bavaria",
+			"name": "Bavaria",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Belgium",
+			"label": "Belgium",
+			"name": "Belgium",
+			"count": 5,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Bruges",
+			"label": "Bruges",
+			"name": "Bruges",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Brussels",
+			"label": "Brussels",
+			"name": "Brussels",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Burgundy",
+			"label": "Burgundy",
+			"name": "Burgundy",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "England",
+			"label": "England",
+			"name": "England",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Europe",
+			"label": "Europe",
+			"name": "Europe",
+			"count": 201,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Flanders",
+			"label": "Flanders",
+			"name": "Flanders",
+			"count": 16,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Florence",
+			"label": "Florence",
+			"name": "Florence",
+			"count": 3,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "France",
+			"label": "France",
+			"name": "France",
+			"count": 37,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Freiburg",
+			"label": "Freiburg",
+			"name": "Freiburg",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Germany",
+			"label": "Germany",
+			"name": "Germany",
+			"count": 9,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Greece",
+			"label": "Greece",
+			"name": "Greece",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Italy",
+			"label": "Italy",
+			"name": "Italy",
+			"count": 49,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Konstanz",
+			"label": "Konstanz",
+			"name": "Konstanz",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Limoges",
+			"label": "Limoges",
+			"name": "Limoges",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Limousin",
+			"label": "Limousin",
+			"name": "Limousin",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "London",
+			"label": "London",
+			"name": "London",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Munich",
+			"label": "Munich",
+			"name": "Munich",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Netherlands",
+			"label": "Netherlands",
+			"name": "Netherlands",
+			"count": 69,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Normandy",
+			"label": "Normandy",
+			"name": "Normandy",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "North and Central America",
+			"label": "North and Central America",
+			"name": "North and Central America",
+			"count": 73,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Paris",
+			"label": "Paris",
+			"name": "Paris",
+			"count": 10,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Scottish",
+			"label": "Scottish",
+			"name": "Scottish",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Sicily",
+			"label": "Sicily",
+			"name": "Sicily",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Spain",
+			"label": "Spain",
+			"name": "Spain",
+			"count": 6,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Tournai",
+			"label": "Tournai",
+			"name": "Tournai",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Turkey",
+			"label": "Turkey",
+			"name": "Turkey",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Tuscany",
+			"label": "Tuscany",
+			"name": "Tuscany",
+			"count": 3,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "United Kingdom",
+			"label": "United Kingdom",
+			"name": "United Kingdom",
+			"count": 9,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "United States",
+			"label": "United States",
+			"name": "United States",
+			"count": 73,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "Vaucluse",
+			"label": "Vaucluse",
+			"name": "Vaucluse",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}],
+		"facets": null
+	}, {
+		"filterGroupId": null,
+		"filterGroupType": null,
+		"filterGroupLabel": null,
+		"filterGroupName": null,
+		"filterGroupItems": null,
+		"id": "era",
+		"label": "Date / Era",
+		"name": null,
+		"values": [{
+			"id": "2000-1000 B.C.",
+			"label": "2000-1000 B.C.",
+			"name": "1",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "1000 B.C.-A.D. 1",
+			"label": "1000 B.C.-A.D. 1",
+			"name": "2",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "A.D. 1000-1400",
+			"label": "A.D. 1000-1400",
+			"name": "5",
+			"count": 21,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "A.D. 1400-1600",
+			"label": "A.D. 1400-1600",
+			"name": "6",
+			"count": 88,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "A.D. 1600-1800",
+			"label": "A.D. 1600-1800",
+			"name": "7",
+			"count": 58,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "A.D. 1800-1900",
+			"label": "A.D. 1800-1900",
+			"name": "8",
+			"count": 23,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "A.D. 1900-present",
+			"label": "A.D. 1900-present",
+			"name": "9",
+			"count": 79,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}],
+		"facets": null
+	}, {
+		"filterGroupId": null,
+		"filterGroupType": null,
+		"filterGroupLabel": null,
+		"filterGroupName": null,
+		"filterGroupItems": null,
+		"id": "department",
+		"label": "Department",
+		"name": null,
+		"values": [{
+			"id": "3",
+			"label": "Ancient Near Eastern Art",
+			"name": "Ancient Near Eastern Art",
+			"count": 1,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "7",
+			"label": "The Cloisters",
+			"name": "The Cloisters",
+			"count": 18,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "9",
+			"label": "Drawings and Prints",
+			"name": "Drawings and Prints",
+			"count": 27,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "11",
+			"label": "European Paintings",
+			"name": "European Paintings",
+			"count": 136,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "12",
+			"label": "European Sculpture and Decorative Arts",
+			"name": "European Sculpture and Decorative Arts",
+			"count": 5,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "13",
+			"label": "Greek and Roman Art",
+			"name": "Greek and Roman Art",
+			"count": 2,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "17",
+			"label": "Medieval Art",
+			"name": "Medieval Art",
+			"count": 6,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "21",
+			"label": "Modern and Contemporary Art",
+			"name": "Modern and Contemporary Art",
+			"count": 7,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "19",
+			"label": "Photographs",
+			"name": "Photographs",
+			"count": 72,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "52",
+			"label": "Provenance Research Project",
+			"name": "Provenance Research Project",
+			"count": 12,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}, {
+			"id": "15",
+			"label": "Robert Lehman Collection",
+			"name": "Robert Lehman Collection",
+			"count": 5,
+			"selected": false,
+			"hidden": false,
+			"orderId": 0
+		}],
+		"facets": null
+	}],
+	"totalResults": 279,
+	"totalCollectionResults": 435109,
+	"fromCache": false
+}
